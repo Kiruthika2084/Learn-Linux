@@ -1,1 +1,13 @@
 
+Manual Structure
+Cheat Sheet
+Section Contains Description
+1 **User Commands**  - Commands that can be run from the shell by a normal user
+(typically no administrative privileges are needed)
+2 **System Calls** - Programming functions used to make calls to the Linux kernel
+3 **C Library Functions** - Programming functions that provide interfaces to specific programming libraries.
+4 **Devices and Special Files** - File system nodes that represent hardware devices or software devices.
+5 **File Formats and Conventions** - The structure and format of file types or specific configuration files.
+6 **Games** - Games available on the system
+7 **Miscellaneous** - Overviews of miscellaneous topics such as protocols, filesystems and so on.
+8 **System administration tools and Daemons** - Commands that require root or other administrative privileges to use
